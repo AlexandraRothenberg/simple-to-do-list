@@ -1,3 +1,7 @@
 html {
   box-sizing: border-box;
 }
+
+.strike {
+  text-decoration: line-through;
+}
